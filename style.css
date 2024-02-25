@@ -1,0 +1,39 @@
+body{
+    background:url(./images/pexels-photo-7736158.jpeg);
+    background-size: cover;
+}
+.sun{
+    margin-left: 400px;
+    position: relative;
+    
+}
+.mercury{
+    position: absolute;
+    margin-right: 1000px;
+}
+.venus{
+   
+    margin-bottom: 200px;
+}
+.earth{
+    position: absolute;
+    margin-top: 150px;
+}
+.jupiter{
+    position: absolute;
+    margin-top: -300px;
+}
+.saturn{
+    position: absolute;
+    
+}
+.uranus{
+    position: absolute;
+    margin-left: 700px;
+}
+.neptune{
+    position: absolute;
+    margin-top: -50px;
+    margin-left: 500px;
+}
+    
